@@ -3,7 +3,7 @@ import java.util.Scanner;
 import ordenar.ordenando;
 
 public class main {
-    public static void principal(String[] args){
+    public static void main(String[] args){
 
         //Declaramos un Scanner para ingresar datos.
         Scanner keyboard = new Scanner(System.in);
